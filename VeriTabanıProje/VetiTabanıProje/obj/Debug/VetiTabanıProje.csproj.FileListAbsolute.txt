@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\VetiTabanıProje\VetiTabanıProje\obj\Debug\VetiTabanıProje.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\VetiTabanıProje\VetiTabanıProje\obj\Debug\VetiTabanıProje.Properties.Resources.resources
+C:\Users\ASUS\source\repos\VetiTabanıProje\VetiTabanıProje\obj\Debug\VetiTabanıProje.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\VetiTabanıProje\VetiTabanıProje\obj\Debug\VetiTabanıProje.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\VetiTabanıProje\VetiTabanıProje\bin\Debug\VetiTabanıProje.exe.config
+C:\Users\ASUS\source\repos\VetiTabanıProje\VetiTabanıProje\bin\Debug\VetiTabanıProje.exe
+C:\Users\ASUS\source\repos\VetiTabanıProje\VetiTabanıProje\bin\Debug\VetiTabanıProje.pdb
+C:\Users\ASUS\source\repos\VetiTabanıProje\VetiTabanıProje\obj\Debug\VetiTabanıProje.exe
+C:\Users\ASUS\source\repos\VetiTabanıProje\VetiTabanıProje\obj\Debug\VetiTabanıProje.pdb
+C:\Users\ASUS\source\repos\VetiTabanıProje\VetiTabanıProje\obj\Debug\VetiTabanıProje.Anasayfa.resources
+C:\Users\ASUS\source\repos\VetiTabanıProje\VetiTabanıProje\obj\Debug\VetiTabanıProje.BursIslemleriSayfasi.resources
+C:\Users\ASUS\source\repos\VetiTabanıProje\VetiTabanıProje\obj\Debug\VetiTabanıProje.EtkinlikSayfasi.resources
+C:\Users\ASUS\source\repos\VetiTabanıProje\VetiTabanıProje\obj\Debug\VetiTabanıProje.OgrenciIslemleriSayfasi.resources
