@@ -1,0 +1,10 @@
+C:\Users\kralm\source\repos\İkiliağaç yapısı projesi\İkiliağaç yapısı projesi\obj\Debug\İkiliağaç yapısı projesi.csproj.AssemblyReference.cache
+C:\Users\kralm\source\repos\İkiliağaç yapısı projesi\İkiliağaç yapısı projesi\obj\Debug\İkiliağaç_yapısı_projesi.Form1.resources
+C:\Users\kralm\source\repos\İkiliağaç yapısı projesi\İkiliağaç yapısı projesi\obj\Debug\İkiliağaç_yapısı_projesi.Properties.Resources.resources
+C:\Users\kralm\source\repos\İkiliağaç yapısı projesi\İkiliağaç yapısı projesi\obj\Debug\İkiliağaç yapısı projesi.csproj.GenerateResource.cache
+C:\Users\kralm\source\repos\İkiliağaç yapısı projesi\İkiliağaç yapısı projesi\obj\Debug\İkiliağaç yapısı projesi.csproj.CoreCompileInputs.cache
+C:\Users\kralm\source\repos\İkiliağaç yapısı projesi\İkiliağaç yapısı projesi\bin\Debug\İkiliağaç yapısı projesi.exe.config
+C:\Users\kralm\source\repos\İkiliağaç yapısı projesi\İkiliağaç yapısı projesi\bin\Debug\İkiliağaç yapısı projesi.exe
+C:\Users\kralm\source\repos\İkiliağaç yapısı projesi\İkiliağaç yapısı projesi\bin\Debug\İkiliağaç yapısı projesi.pdb
+C:\Users\kralm\source\repos\İkiliağaç yapısı projesi\İkiliağaç yapısı projesi\obj\Debug\İkiliağaç yapısı projesi.exe
+C:\Users\kralm\source\repos\İkiliağaç yapısı projesi\İkiliağaç yapısı projesi\obj\Debug\İkiliağaç yapısı projesi.pdb
